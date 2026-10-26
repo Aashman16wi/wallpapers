@@ -30,12 +30,6 @@ A curated wallpaper collection, organised by theme. ~1,970 files across 23 folde
 | live | 7 | Animated wallpapers (`.mp4`) |
 | Dracula | 2 | Small centred artwork on a huge flat dark background |
 
-## Organisation notes
-
-- The old `unsorted/` folder (129 files) has been fully sorted into the folders above, along with 6 loose images from the repo root.
-- Every file was classified by actually viewing it; opaque filenames (`wallhaven-*`, numeric names) were judged on pixels alone. Low-confidence calls are listed in the PR description for review.
-- One exact duplicate was removed: `unsorted/b910o5hgqe791.webp` was byte-identical (md5) to the copy already in `chillop/`.
-- The repo root now holds only `LICENSE` and this `README.md`.
 
 ## Contributing
 
